@@ -6,10 +6,12 @@ authors = ["Artyom Astafurov <artyom.astafurov@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.11,<3.13"
 rshell = "^0.0.33"
 fastapi = "^0.112.2"
 uvicorn = "^0.30.6"
+python-fasthtml = "^0.5.1"
+bleak = "^0.22.2"
 
 
 [build-system]

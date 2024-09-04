@@ -30,7 +30,7 @@ If it's got a digital readout, we can hack it!
 
 1. Flash `board.py` to your microcontroller (works on Raspberry Pi Pico H, others TBD)
 2. Connect to your exercise machine's existing sensors and controls (works with reed switch for speed, DC motor for effort, potentiometer for position)
-3. Run `host.py` on any computer connected to the microcontroller via serial interface (via USB)
+3. Run `api.py` or `ui.py` on any computer connected to the microcontroller via serial interface (via USB)
 4. Start hacking your workouts!
 
 ## API Endpoints
