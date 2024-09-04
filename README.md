@@ -19,7 +19,7 @@ If it's got a digital readout, we can hack it!
 2. Resistance/incline/effort control with position feedback (servo, stepper, etc.)
 3. Heart rate monitoring (chest strap, Polar strap, etc.) (coming soon)
 
-## Why UniFit?
+## Why?
 
 - Break free from Peloton, iFit, and other locked-down ecosystems
 - Breathe new life into old or "bricked" smart equipment
@@ -48,7 +48,7 @@ If it's got a digital readout, we can hack it!
 2. Turn workouts into simple games or challenges
 2. Create multi-machine workout programs
 3. Develop VR/AR fitness experiences using real exercise data
-4. Build a community-driven workout sharing platform
+4. Build a community-driven workout-sharing platform
 5. Implement advanced fitness tracking and analytics
 
 ## Contributing
